@@ -1,0 +1,36 @@
+body{
+    background:#ece9e6;  
+    background: -webkit-linear-gradient(to right,#ece9e6,#ffffff);
+}
+
+.container_1, .container_2, .container_3{
+    font-family: Verdana, Geneva, Tahoma, sans-serif ;
+    text-align: center;
+}
+
+.container_2 p{
+    background-color: #c2c2c2;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin-left: 30%;
+    margin-right: 30%;
+    font-size:40px;
+    border-radius: 600px;
+}
+.button_1,.button_2,.button_3{
+    font-family: Verdana, Geneva, Tahoma, sans-serif ;
+    width: 150px;
+    height: 30px;
+    background-color:#c2c2c2ad ;
+    border-radius: 3px;
+}
+.container_3{
+    border: 2px solid #c2c2c2ad;
+    margin-top:20px;
+    margin-left: 32%;
+    margin-right: 32%;
+
+}
+.container_3 h2{
+    margin: 0;
+}
